@@ -1,7 +1,7 @@
 #include <Servo.h>
 #include <LiquidCrystal.h> // Incluindo a biblioteca do LCD
 
-// LED RGB
+// LED RGB 
 const int GREEN = 5;
 const int BLUE = 4;
 const int RED = 3;
